@@ -1,6 +1,5 @@
-## Hi, I'm Ernest 👋
+## Hey, I'm Rus 👋
 
 Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference
 
-Come join us at Izzy AI!
-If you want to make autonomous AI agents and oursource your life, come join us at [Izzi](https://github.com/ernestmeach1/izzy/)
+Come join us at XO Sniper Bot!
