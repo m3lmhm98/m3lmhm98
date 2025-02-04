@@ -1,5 +1,5 @@
-## Hey, I'm Rus 👋
+## Hey welcome to Rustle AI 👋
 
-Full-stack engineer, entrepreneur and product designer with a passion for building things that make a difference
+Rustle is the world's first Rust library that enables anyone to build and deploy LLM-powered sentient AI agents in seconds!
 
-Come join us at XO Sniper Bot!
+cargo add rustle-core to get started now
