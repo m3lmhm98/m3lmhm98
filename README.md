@@ -1,5 +1,5 @@
-## Hey welcome to Rustle AI 👋
+## Hey there, I'm Will 👋
 
-Rustle is the world's first Rust library that enables anyone to build and deploy LLM-powered sentient AI agents in seconds!
+Creator of Zippy - the world's first Rust library that enables anyone to build and deploy LLM-powered sentient AI agents in seconds!
 
-cargo add rustle-core to get started now
+cargo add zippy-core to get started now
